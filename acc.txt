@@ -1,0 +1,3 @@
+example1@gmail.com:password1
+example2@gmail.com:password2
+example3@gmail.com:password3
