@@ -9,3 +9,11 @@ ________________________________________________________________________________
 Acc.txt'e hesaplar email:pass şeklinde tanımlanacaktır.
 
 Result.txt içerisinde hangi hesaplarda indirim olup olmadığını görebilirsiniz.
+
+____________________________________________________________________________________________________
+
+Yüklemeniz gereken kütüphaneler;
+
+pip install undetected-chromedriver==2.1.1
+
+pip install selenium
